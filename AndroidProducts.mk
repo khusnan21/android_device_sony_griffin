@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_bahamut.mk
+    $(LOCAL_DIR)/omni_griffin.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_bahamut-user \
-    omni_bahamut-userdebug \
-    omni_bahamut-eng
+    omni_griffin-user \
+    omni_griffin-userdebug \
+    omni_griffin-eng
